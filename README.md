@@ -22,8 +22,11 @@ Software Developer based in Nairobi
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code> 
 
 <div style="display: flex;">
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alekskimeu)](https://github.com/alekskimeu/github-readme-stats)
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu)](https://git.io/streak-stats)
+  
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu)](https://github.com/alekskimeu/github-readme-stats)
