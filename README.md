@@ -9,7 +9,12 @@ Software Developer based in Nairobi
 
 - 📈 Currently learning Next Js, Tailwind CSS & React Native
 
-- ❤️ In love with JAMstack
+- ❤️ Interests:
+     * Football
+     * Pentesting
+     * Music
+
+- In love with JAMstack
 
 <br />
 
