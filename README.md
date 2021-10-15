@@ -9,12 +9,7 @@ Software Developer based in Nairobi
 
 - 📈 Currently learning Next Js, Tailwind CSS & React Native
 
-- ❤️ Interests:
-     * Football
-     * Pentesting
-     * Music
-
-- In love with JAMstack
+- ❤️ In love with JAMstack
 
 <br />
 
@@ -35,13 +30,13 @@ Software Developer based in Nairobi
 <br />
 <br />
 
-**Let's Connect**
+**Let's Connect:**
 
 <a href="https://twitter.com/alekskimeu" target="_blank">
    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/alexkimeu0/" target="_blank">
-   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
