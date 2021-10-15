@@ -3,7 +3,7 @@
 
 Software Developer based in Nairobi
 
-**Bio**
+**About me:**
 
 - 💼 Developer at [ZawadiZ](https://zawadiz.com/)
 
