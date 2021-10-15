@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+### I'm Alex Kimeu
 
-<!--
-**alekskimeu/alekskimeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer based in Nairobi
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 Developer at [ZawadiZ](https://zawadiz.com/)
+
+- 📈 Learning Next Js, Tailwind CSS & React Native
+
+- ❤️ I'm in love with JAMstack
 -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alekskimeu)](https://github.com/alekskimeu/github-readme-stats)
