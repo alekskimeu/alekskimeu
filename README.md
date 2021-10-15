@@ -35,7 +35,6 @@ Software Developer based in Nairobi
 </a>
 
 <a href="https://www.linkedin.com/in/alexkimeu0/" target="_blank">
-   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png
-" />
+   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
