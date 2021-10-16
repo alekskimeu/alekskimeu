@@ -10,7 +10,7 @@ Developer | Limitless learner
 - 📈 Currently learning Next Js, Tailwind CSS & React Native
 
 - ❤️ In love with JAMstack
-- 
+
 - 💻 Sometimes I code. All the time I learn 😉
 
 <br />
