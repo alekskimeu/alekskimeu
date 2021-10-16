@@ -1,15 +1,17 @@
 # Hello World 👋
 ### I'm Alex Kimeu
 
-Software Developer based in Nairobi
+Developer | Limitless learner
 
 **About me:**
 
-- 💼 Developer at [ZawadiZ](https://zawadiz.com/)
+- 💼 Full stack Web Developer
 
 - 📈 Currently learning Next Js, Tailwind CSS & React Native
 
 - ❤️ In love with JAMstack
+- 
+- 💻 Sometimes I code. All the time I learn 😉
 
 <br />
 
