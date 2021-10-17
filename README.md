@@ -32,7 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu)](https://github.com/alekskimeu/github-readme-stats)
 
 <br />
-<br />
 
 **LET'S CONNECT:**
 
