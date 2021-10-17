@@ -3,7 +3,7 @@
 
 #### Developer | Limitless learner
 
-**About me:**
+**ABOUT ME:**
 
 - 💼 Full stack Web Developer
 
@@ -15,7 +15,7 @@
 
 <br />
 
-**Languages and Tools:**  
+**LANGUAGES & TOOLS:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-**Let's Connect:**
+**LET'S CONNECT:**
 
 <a href="https://twitter.com/alekskimeu" target="_blank">
    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
