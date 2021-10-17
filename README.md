@@ -7,9 +7,9 @@ Developer | Limitless learner
 
 - 💼 Full stack Web Developer
 
-- 📈 Currently learning Next Js, Tailwind CSS & React Native
-
 - ❤️ In love with JAMstack
+
+- 📈 Currently learning Next Js, React Native & Tailwind CSS
 
 - 💻 Sometimes I code. All the time I learn 😉
 
