@@ -1,5 +1,5 @@
 # Hello World 👋
-### I'm Alex Kimeu
+### I'm ALEX KIMEU
 
 Developer | Limitless learner
 
