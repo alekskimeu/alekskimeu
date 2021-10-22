@@ -17,7 +17,7 @@
 
 <br />
 
-**📖 LATEST BLOG POSTS**
+**📖 LATEST BLOG POSTS:**
 
 <!-- HASHNODE:START -->
 - [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
