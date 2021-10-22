@@ -1,7 +1,7 @@
 # Hello World 👋
 ### I'M ALEX KIMEU...
 
-#### Developer | Limitless Learner | Occasional Blogger
+#### Developer | Blogger | Limitless Learner
 
 <br />
 
