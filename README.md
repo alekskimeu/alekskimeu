@@ -20,6 +20,9 @@
 **📖 LATEST BLOG POSTS**
 
 <!-- HASHNODE:START -->
+- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
+- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
+- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
 **LANGUAGES & TOOLS:**  
