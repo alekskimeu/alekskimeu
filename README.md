@@ -17,7 +17,8 @@
 
 <br />
 
-# 📖 Latest Blog posts
+**📖 Latest Blog posts**
+
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
 
