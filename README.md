@@ -14,6 +14,7 @@
 - 📈 Currently learning Next Js, React Native & Tailwind CSS
 
 - 💻 Sometimes I code. All the time I learn 😉
+---------------------------------------------------------------------------------------------------------------
 
 <br />
 
@@ -24,7 +25,7 @@
 - [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
-
+---------------------------------------------------------------------------------------------------------------
 <br />
 
 **LANGUAGES & TOOLS:**  
@@ -34,6 +35,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code> 
+
+---------------------------------------------------------------------------------------------------------------
 
 <br />
 
@@ -47,6 +50,8 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu)](https://github.com/alekskimeu/github-readme-stats)
+
+---------------------------------------------------------------------------------------------------------------
 
 <br />
 
