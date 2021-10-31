@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello 👋
 ### I'M ALEX KIMEU...
 
 #### Developer | Blogger | Limitless Learner
