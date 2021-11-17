@@ -47,7 +47,7 @@
 </p>
  <br><br>
 
-<img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=prussian&count_private=true" alt="Alex' GitHub stats"/>
+<img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=nightowl&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
 
 <br><br>
