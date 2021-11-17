@@ -24,8 +24,8 @@
 
 - 📫 How to reach me: *kimeualeks@gmail.com*
 
-<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="460"/>
+<img align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="470"/>
 
 **💼 LANGUAGES & TOOLS:**
 <p align="left">
