@@ -26,10 +26,6 @@
 
 <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="460"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="500"/>
-<a align="right" href="https://app.daily.dev/DailyDevTips">
-   <img src="https://github.com/alekskimeu/alekskimeu/blob/master/devcard.svg" width="400" alt="Alex' Dev Card"/>
-</a>
 
 **💼 LANGUAGES & TOOLS:**
 <p align="left">
