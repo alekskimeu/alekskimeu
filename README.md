@@ -16,7 +16,7 @@
 
 - 📈 Currently learning Next Js, React Native & Tailwind CSS
 
-- 📈 Interested in Web3 & Blockchain
+- 🚀 Interested in Web3 & Blockchain
 
 - 💻 Sometimes I code. All the time I learn 😉
 
@@ -66,7 +66,7 @@
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
-**📖 Codewars:**
+** 💻 Codewars:**
 
 <a href="https://www.codewars.com/users/alexkimeu/" target="_blank">
    <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Codewars Badge" />
