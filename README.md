@@ -41,8 +41,6 @@
 <!-- HASHNODE:END -->
 
 
-**📖 LATEST TWEETS**
-
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
 
 
