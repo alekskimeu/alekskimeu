@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, Alex  here 🙋‍♂️ </h1>
-<h3 align="center">Developer | LImitless learner</h3>
+
+<h3 align="center">Developer | Limitless learner</h3>
+
 
 <h3 align="center">Connect with me: 😇</h3>
 <p align="center">
@@ -20,12 +22,17 @@
 
 - 💻 Sometimes I code. All the time I learn 😉
 
+- 📫 How to reach me: *kimeualeks@gmail.com*
 
-<div>
-<div align="left">
-   <h3 align="left">Languages and Tools:</h3>
 
-   <p align="left"> 
+
+
+<h3 align="left">Languages and Tools:</h3>
+ <img  width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="410"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/>
+
+ <p align="left"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -52,17 +59,7 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
    </p>
-</div>
 
-<div align="right">
-   <img  width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
-
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="410"/>
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/>
-</div>
-
-</div>
 
 **📖 LATEST BLOG POSTS:**
 
@@ -77,5 +74,8 @@
 <a href="https://www.codewars.com/users/alexkimeu/" target="_blank">
    <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Codewars Badge" />
 </a>
+
+
+
 
 
