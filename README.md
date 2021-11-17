@@ -10,6 +10,8 @@
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
 </p>
 
+<div align="left">
+   
 **ABOUT ME:**
 
 - 💼 Full stack Web Developer
@@ -23,7 +25,7 @@
 - 💻 Sometimes I code. All the time I learn 😉
 
 - 📫 How to reach me: *kimeualeks@gmail.com*
-
+</div>
 <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
 
 
