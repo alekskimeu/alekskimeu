@@ -31,8 +31,6 @@
    <img src="https://github.com/alekskimeu/alekskimeu/blob/master/devcard.svg" width="400" alt="Alex' Dev Card"/>
 </a>
 
-
-
 **💼 LANGUAGES & TOOLS:**
 <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
