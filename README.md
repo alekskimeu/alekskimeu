@@ -9,8 +9,6 @@
    <a href="https://www.linkedin.com/in/alexkimeu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Kimeu LinkedIn" height="30" width="40" /></a>
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
 </p>
-
-<div style="display: flex">
    
 **ABOUT ME:**
 
@@ -25,6 +23,16 @@
 - 💻 Sometimes I code. All the time I learn 😉
 
 - 📫 How to reach me: *kimeualeks@gmail.com*
+
+<div align="right">
+**📖 LATEST BLOG POSTS:**
+
+<!-- HASHNODE:START -->
+- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
+- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
+- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
+<!-- HASHNODE:END -->
+</div>
 
 <img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/> -->
@@ -61,13 +69,6 @@
    </p>
 
 
-**📖 LATEST BLOG POSTS:**
-
-<!-- HASHNODE:START -->
-- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
-- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
-- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
-<!-- HASHNODE:END -->
 
 **💻 Codewars:**
 
