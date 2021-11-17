@@ -1,10 +1,10 @@
-<h1>Hi 👋, Alex  here 🙋‍♂️ </h1>
+<h1 align="center">Hi 👋, Alex  here 🙋‍♂️ </h1>
 
-<h3>Developer | Limitless learner</h3>
+<h3 align="center">Developer | Limitless learner</h3>
 
 
-<h3>LET'S CONNECT: 😇</h3>
-<p>
+<h3 align="center">LET'S CONNECT: 😇</h3>
+<p align="center">
    <a href="https://twitter.com/alekskimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alex KImeu Twitter" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/alexkimeu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Kimeu LinkedIn" height="30" width="40" /></a>
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
