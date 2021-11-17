@@ -14,8 +14,11 @@
    </a>
 </p>
 
->We all reach a point in our lives & careers where we understand what natters the most to us.
-> And for me, that's learning & writing code.🤞
+>We lead our lives like water flowing down a hill going more or less in one direction
+>until we splash into something that forces us to find a new course.
+>Water never waits. It changes shapes and flows around things,
+>and finds the secret paths no one else has thought about. 🤞
+>~ *Arthur Golden*
 
 <h3>ABOUT ME </h3>
 
