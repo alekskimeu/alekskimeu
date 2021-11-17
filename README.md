@@ -29,13 +29,18 @@ and finds the secret paths no one else has thought about." 🤞
 - ✍️ Currently learning: React Native, Next JS & Tailwind CSS
 - 💻 Sometimes I code. All the time I learn.
 
+ <br><br>
+
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=prussian&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
+
+<br><br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
+<br><br>
 **💼 LANGUAGES & TOOLS:**
 <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -52,6 +57,7 @@ and finds the secret paths no one else has thought about." 🤞
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
 
+<br><br>
 **📖 LATEST BLOG POSTS**
 
 <!-- HASHNODE:START -->
@@ -60,7 +66,7 @@ and finds the secret paths no one else has thought about." 🤞
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
-
+<br><br>
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
 
 >Whatever you do, don’t let inertia and complacency keep
