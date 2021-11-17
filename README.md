@@ -2,14 +2,24 @@
 
 <h3 align="center">Developer | Limitless learner</h3>
 
-
-<h3 align="center">LET'S CONNECT: 😇</h3>
 <p align="center">
-   <a href="https://twitter.com/alekskimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alex KImeu Twitter" height="30" width="40" /></a>
-   <a href="https://www.linkedin.com/in/alexkimeu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Kimeu LinkedIn" height="30" width="40" /></a>
-   <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
+   <a href="https://twitter.com/alekskimeu" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alex KImeu Twitter" height="30" width="40" />
+    </a>
+   <a href="https://www.linkedin.com/in/alexkimeu/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Kimeu LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://hashnode.com/@alexkimeu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" />
+   </a>
 </p>
 
+<h3>ABOUT ME </h3>
+* Full Stack Web Developer
+* In love with JAMstack
+* Interested in Web3 & Blockchain
+* Currently learning: React Native, Next JS & Tailwind CSS
+* Sometimes I code. All the time I learn.
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="470"/>
@@ -31,7 +41,6 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
 
-
 **📖 LATEST BLOG POSTS**
 
 <!-- HASHNODE:START -->
@@ -45,5 +54,10 @@
 
 
 
+> We lead our lives like water flowing down a hill going more or less in one direction 
+until we splash into something that forces us to find a new course.
+Water never waits. It changes shapes and flows around things,
+and finds the secret paths no one else has thought about.
+~ *Arthur Golden*
 
 
