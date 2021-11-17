@@ -10,7 +10,7 @@
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
 </p>
 
-<div>
+<div style="display: flex">
 <div align="left">
    
 **ABOUT ME:**
