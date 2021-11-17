@@ -15,10 +15,10 @@
 </p>
 
 > 
->"We lead our lives like water flowing down a hill going more or less in one direction
+>We lead our lives like water flowing down a hill going more or less in one direction
 until we splash into something that forces us to find a new course.
 Water never waits. It changes shapes and flows around things,
-and finds the secret paths no one else has thought about." 🤞
+and finds the secret paths no one else has thought about.🤞
 ~ *Arthur Golden*
 
 <h3>ABOUT ME </h3>
@@ -29,6 +29,23 @@ and finds the secret paths no one else has thought about." 🤞
 - ✍️ Currently learning: React Native, Next JS & Tailwind CSS
 - 💻 Sometimes I code. All the time I learn.
 
+<br><br>
+
+**💼 LANGUAGES & TOOLS:**
+<p align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Js" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+</p>
  <br><br>
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=prussian&count_private=true" alt="Alex' GitHub stats"/>
@@ -39,23 +56,6 @@ and finds the secret paths no one else has thought about." 🤞
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
-
-<br><br>
-**💼 LANGUAGES & TOOLS:**
-<p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Js" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-</p>
 
 <br><br>
 **📖 LATEST BLOG POSTS**
