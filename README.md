@@ -27,7 +27,7 @@
 - 📫 How to reach me: *kimeualeks@gmail.com*
 
 <img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/>
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/> -->
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="410"/>
 
    
