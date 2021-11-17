@@ -22,11 +22,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- <img align="right"  width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu-comp&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>&nbsp;&nbsp;&nbsp;
+ <img align="right"  width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>&nbsp;&nbsp;&nbsp;
 
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu-comp&theme=radical" alt="Contributions" width="410"/>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="410"/>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu-comp&theme=radical" alt="Top Languages" width="410"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/>
 
 
 <p align="left"> 
