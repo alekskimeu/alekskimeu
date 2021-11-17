@@ -10,9 +10,9 @@
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
 </p>
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&theme=radical" alt="Top Languages" width="410"/> -->
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="450"/>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="500"/>
 
    
    
