@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Alex  here 🙋‍♂️ </h1>
+<h1 align="center">Hola 👋, Alex  here 🙋‍♂️ </h1>
 
 <h3 align="center">Developer | Limitless learner</h3>
 
@@ -15,19 +15,19 @@
 </p>
 
 > 
-> > "We lead our lives like water flowing down a hill going more or less in one direction
+>"We lead our lives like water flowing down a hill going more or less in one direction
 until we splash into something that forces us to find a new course.
 Water never waits. It changes shapes and flows around things,
-and finds the secret paths no one else has thought about."
+and finds the secret paths no one else has thought about." 🤞
 ~ *Arthur Golden*
 
 <h3>ABOUT ME </h3>
 
-- Full Stack Web Developer
-- In love with JAMstack
-- Interested in Web3 & Blockchain
-- Currently learning: React Native, Next JS & Tailwind CSS
-- Sometimes I code. All the time I learn.
+- 💼 Full Stack Web Developer
+- ❤️ In love with JAMstack
+- 🤞 Interested in Web3 & Blockchain
+- ✍️ Currently learning: React Native, Next JS & Tailwind CSS
+- 💻 Sometimes I code. All the time I learn.
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=prussian&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
