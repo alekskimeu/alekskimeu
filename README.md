@@ -66,7 +66,7 @@
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
-** 💻 Codewars:**
+**💻 Codewars:**
 
 <a href="https://www.codewars.com/users/alexkimeu/" target="_blank">
    <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Codewars Badge" />
