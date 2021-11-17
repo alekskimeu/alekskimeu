@@ -10,6 +10,7 @@
    <a href="https://hashnode.com/@alexkimeu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" /></a>
 </p>
 
+<div>
 <div align="left">
    
 **ABOUT ME:**
@@ -27,7 +28,7 @@
 - 📫 How to reach me: *kimeualeks@gmail.com*
 </div>
 <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=radical&count_private=true" alt="Alex' GitHub stats"/>
-
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical" alt="Contributions" width="410"/>
