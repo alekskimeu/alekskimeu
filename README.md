@@ -30,7 +30,7 @@
 
 <br><br>
 
-**💼 LANGUAGES & TOOLS:**
+**LANGUAGES & TOOLS:**
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -63,7 +63,7 @@
 
 <br><br>
 
-**📖 LATEST BLOG POSTS**
+**LATEST BLOG POSTS**
 
 <!-- HASHNODE:START -->
 - [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
