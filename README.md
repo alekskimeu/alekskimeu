@@ -24,8 +24,8 @@
 
 - 💼 Full Stack Web Developer
 - ❤️ In love with JAMstack
-- 🤞 Interested in Web3.0 & Blockchain
 - ✍️ Currently learning: React Native, Next JS & Tailwind CSS
+- 🤞 Interested in Web3.0 & Blockchain
 - 💻 Sometimes I code. All the time I learn.
 
 <br><br>
