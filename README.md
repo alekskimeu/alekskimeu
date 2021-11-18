@@ -75,7 +75,7 @@
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
 
 >The programmers of tomorrow are the wizards of the future.
-> You gonna look like you have agic powers compared to everybody else.
+> You gonna look like you have magic powers compared to everybody else.
 >~ *Gabe Newell*
 > 
 >
