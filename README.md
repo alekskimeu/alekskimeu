@@ -20,7 +20,7 @@
 >and finds the secret paths no one else has thought about. 🤞
 >~ *Arthur Golden*
 
-<h3>ABOUT ME </h3>
+**ABOUT ME:**
 
 - 💼 Full Stack Web Developer
 - ❤️ In love with JAMstack
