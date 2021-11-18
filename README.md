@@ -78,5 +78,6 @@
 > You gonna look like you have agic powers compared to everybody else.
 >~ *Gabe Newell*
 > 
+>
 >Whatever you do, don’t let inertia and complacency keep
 >you from pushing yourself a little bit every day.
