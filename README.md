@@ -54,7 +54,7 @@
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=nightowl&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -71,7 +71,9 @@
 <!-- HASHNODE:END -->
 
 <br>
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
+
 <br>
 
 <a href="https://www.codewars.com/users/alexkimeu" target="_blank">
@@ -79,9 +81,10 @@
 </a>
 
 <br>
+
 >The programmers of tomorrow are the wizards of the future.
 > You gonna look like you have magic powers compared to everybody else.
->~ *Gabe Newell*
+> ~ *Gabe Newell*
 > 
 >
 >Whatever you do, don’t let inertia and complacency keep
