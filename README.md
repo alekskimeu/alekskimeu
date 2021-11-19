@@ -28,9 +28,8 @@
 - 🤞 Interested in Web3.0 & Blockchain
 - 💻 Sometimes I code. All the time I learn.
 
-<br><br>
-
 **LANGUAGES & TOOLS:**
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -50,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
 
- <br><br>
+ <br>
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=nightowl&count_private=true" alt="Alex' GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
@@ -61,7 +60,7 @@
     <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
-<br><br>
+<br>
 
 **LATEST BLOG POSTS:**
 
@@ -71,15 +70,15 @@
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
-<br><br>
+<br>
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
-<br><br>
+<br>
 
 <a href="https://www.codewars.com/users/alexkimeu" target="_blank">
     <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
 </a>
 
-<br><br>
+<br>
 >The programmers of tomorrow are the wizards of the future.
 > You gonna look like you have magic powers compared to everybody else.
 >~ *Gabe Newell*
