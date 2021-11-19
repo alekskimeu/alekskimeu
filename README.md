@@ -60,7 +60,7 @@
     <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
-<br>
+<br><br>
 
 **LATEST BLOG POSTS:**
 
@@ -80,7 +80,7 @@
     <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
 </a>
 
-<br>
+<br><br>
 
 >The programmers of tomorrow are the wizards of the future.
 > You gonna look like you have magic powers compared to everybody else.
