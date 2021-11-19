@@ -73,7 +73,13 @@
 
 <br><br>
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
+<br><br>
 
+<a href="https://www.codewars.com/users/alexkimeu" target="_blank">
+    <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
+</a>
+
+<br><br>
 >The programmers of tomorrow are the wizards of the future.
 > You gonna look like you have magic powers compared to everybody else.
 >~ *Gabe Newell*
