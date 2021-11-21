@@ -17,7 +17,6 @@
 <thead>
 <th><h3 align="left">ABOUT ME</h3></th>
 <th><h3 align="left">LATEST BLOG POSTS</h3></th>
-<th><h3 align="left">LATEST TWEETS</h3></th>
 </thead>
 </tr>
 <tr>
@@ -39,15 +38,10 @@
 <!-- HASHNODE:END -->
 
 </td>
-<td>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
-
-</td>
 </tr>
 </table>
-<h2 align="center">LANGUAGES & TOOLS</h2>
-<p align="center">
+<h2 align="left">LANGUAGES & TOOLS</h2>
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -74,28 +68,24 @@
           <img width="120%" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&count_private=true&theme=radical&show_icons=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical">
-    </td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+ </td>
   </tr>
   <tr>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-  </td>
     <td align="center">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical">
+    </td>
+    <td>
+    <a href="https://www.codewars.com/users/alexkimeu" target="_blank">
+        <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
+    </a>
     </td>
   </tr>
 </table>
 
 <hr />
 
-<a href="https://www.codewars.com/users/alexkimeu" target="_blank">
-    <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
-</a>
-
-<hr />
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
 
 >We lead our lives like water flowing down a hill going more or less in one direction
 >until we splash into something that forces us to find a new course.
