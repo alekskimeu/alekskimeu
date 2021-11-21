@@ -1,36 +1,53 @@
-<h1 align="center">Hola 👋, Alex  here 🙋‍♂️ </h1>
-
-<h3 align="center">Developer | Limitless learner</h3>
-
+<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
 <p align="center">
-   <a href="https://twitter.com/alekskimeu" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alex KImeu Twitter" height="30" width="40" />
-    </a>
-   <a href="https://www.linkedin.com/in/alexkimeu/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Kimeu LinkedIn" height="30" width="40" />
-   </a>
-   <a href="https://hashnode.com/@alexkimeu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Alex Kimeu Hashnode" height="30" width="40" />
-   </a>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQGAd2DB2ZVtRg/profile-displaybackgroundimage-shrink_200_800/0/1636389878253?e=1643241600&v=beta&t=bxprU5H0r_93fME9qF25-WdUfp5GYE45UIubLA7gAdc">
+</p>
+<p align="center">
+<a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/alekskimeu"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexkimeu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
->We lead our lives like water flowing down a hill going more or less in one direction
->until we splash into something that forces us to find a new course.
->Water never waits. It changes shapes and flows around things,
->and finds the secret paths no one else has thought about. 🤞
->~ *Arthur Golden*
+<br>
 
-**ABOUT ME:**
+<table align="center">
+<tr>
+<thead>
+<th><h3 align="left">ABOUT ME</h3></th>
+<th><h3 align="left">LATEST BLOG POSTS</h3></th>
+<th><h3 align="left">LATEST TWEETS</h3></th>
+</thead>
+</tr>
+<tr>
+<td>
+<ul>    
+<li>- 💼 Full Stack Web Developer</li>
+<li>- ❤️ In love with JAMstack</li>
+<li>- ✍️ Currently learning: React Native, Next JS & Tailwind CSS</li>
+<li>- 🤞 Interested in Web3.0 & Blockchain</li>
+<li>- 💻 Sometimes I code. All the time I learn.</li>
+</ul>
+</td>
+<td>
 
-- 💼 Full Stack Web Developer
-- ❤️ In love with JAMstack
-- ✍️ Currently learning: React Native, Next JS & Tailwind CSS
-- 🤞 Interested in Web3.0 & Blockchain
-- 💻 Sometimes I code. All the time I learn.
+<!-- HASHNODE:START -->
+- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
+- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
+- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
+<!-- HASHNODE:END -->
 
-**LANGUAGES & TOOLS:**
+</td>
+<td>
 
-<p align="left">
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
+
+</td>
+</tr>
+</table>
+<h2 align="center">LANGUAGES & TOOLS</h2>
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -49,43 +66,43 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
 
- <br>
-
-<img width="470" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&show_icons=true&theme=nightowl&count_private=true" alt="Alex' GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=nightowl" alt="Contributions" width="470"/>
-
 <br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Alex' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+          <img width="120%" src="https://github-readme-stats.vercel.app/api?username=alekskimeu&count_private=true&theme=radical&show_icons=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alekskimeu&theme=radical">
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+  </td>
+    <td align="center">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alekskimeu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+        </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-**LATEST BLOG POSTS:**
-
-<!-- HASHNODE:START -->
-- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
-- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
-- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
-<!-- HASHNODE:END -->
-
-<br>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
-
-<br>
+<hr />
 
 <a href="https://www.codewars.com/users/alexkimeu" target="_blank">
     <img src="https://www.codewars.com/users/alexkimeu/badges/large?logo=false" alt="Alex Kimeu Codewars badge"/>
 </a>
 
-<br><br>
+<hr />
 
->The programmers of tomorrow are the wizards of the future.
-> You gonna look like you have magic powers compared to everybody else.
-> ~ *Gabe Newell*
-> 
+>We lead our lives like water flowing down a hill going more or less in one direction
+>until we splash into something that forces us to find a new course.
+>Water never waits. It changes shapes and flows around things,
+>and finds the secret paths no one else has thought about. 🤞
+>~ *Arthur Golden*
+>
 >
 >Whatever you do, don’t let inertia and complacency keep
 >you from pushing yourself a little bit every day.
