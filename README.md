@@ -40,8 +40,8 @@
 </td>
 </tr>
 </table>
-<h2 align="left">LANGUAGES & TOOLS</h2>
-<p align="left">
+<h2 align="center">LANGUAGES & TOOLS</h2>
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
