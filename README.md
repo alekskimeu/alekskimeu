@@ -22,11 +22,11 @@
 <tr>
 <td>
 <ul>    
-<li>- 💼 Full Stack Web Developer</li>
-<li>- ❤️ In love with JAMstack</li>
-<li>- ✍️ Currently learning: React Native, Next JS & Tailwind CSS</li>
-<li>- 🤞 Interested in Web3.0 & Blockchain</li>
-<li>- 💻 Sometimes I code. All the time I learn.</li>
+<li>💼 Full Stack Web Developer</li>
+<li>❤️ In love with JAMstack</li>
+<li>✍️ Currently learning: React Native, Next JS & Tailwind CSS</li>
+<li>🤞 Interested in Web3.0 & Blockchain</li>
+<li>💻 Sometimes I code. All the time I learn.</li>
 </ul>
 </td>
 <td>
