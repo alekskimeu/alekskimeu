@@ -96,6 +96,9 @@
 >and finds the secret paths no one else has thought about. 🤞
 >~ *Arthur Golden*
 >
+> 
+> When cats look at themselves in a mirror they see lions.
+> what matters is how you see yourself.
 >
 >Whatever you do, don’t let inertia and complacency keep
 >you from pushing yourself a little bit every day.
