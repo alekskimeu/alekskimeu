@@ -97,8 +97,8 @@
 >~ *Arthur Golden*
 >
 > 
-> When cats look at themselves in a mirror they see lions.
-> what matters is how you see yourself.
+> When cats look at themselves in a mirror they see lions. <br>
+> What matters is how you see yourself.
 >
 >Whatever you do, don’t let inertia and complacency keep
 >you from pushing yourself a little bit every day.
