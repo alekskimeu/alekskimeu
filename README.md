@@ -83,8 +83,6 @@
   </tr>
 </table>
 
-<hr />
-
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
