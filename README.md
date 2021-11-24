@@ -83,10 +83,17 @@
   </tr>
 </table>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&theme=radical)](https://twitter.com/alekskimeu)
+
+<table align="center">
+<td>
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
+</td>
+<td>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
+</td>
+</table>
 
 >We lead our lives like water flowing down a hill going more or less in one direction
 >until we splash into something that forces us to find a new course.
