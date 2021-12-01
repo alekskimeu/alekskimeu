@@ -95,17 +95,17 @@
 </td>
 </table>
 
->We lead our lives like water flowing down a hill going more or less in one direction
->until we splash into something that forces us to find a new course.
->Water never waits. It changes shapes and flows around things,
->and finds the secret paths no one else has thought about. 🚀
+>We lead our lives like water flowing down a hill going more or less in one direction <br>
+>until we splash into something that forces us to find a new course. <br>
+>Water never waits. It changes shapes and flows around things, <br>
+>and finds the secret paths no one else has thought about. 🚀 <br>
 >~ *Arthur Golden*
 >
 > 
 > When cats look at themselves in a mirror they see lions. 🔥 <br>
 > What matters is how you see yourself.
 >
->Whatever you do, don’t let inertia and complacency keep
+>Whatever you do, don’t let inertia and complacency keep <br>
 >you from pushing yourself a little bit every day. 🚀
 >
 > 
