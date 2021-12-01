@@ -86,7 +86,6 @@
 <table align="center">
 
 [![Alex' github activity graph](https://activity-graph.herokuapp.com/graph?username=alekskimeu&theme=github)](https://github.com/alekskimeu/github-readme-activity-graph)
-
 </table>
 
 
@@ -107,12 +106,5 @@
 > has thought about. 🚀 <br>
 > ~ *Arthur Golden*
 >
-> 
-> When cats look at themselves in a mirror they see lions. 🔥 <br>
-> What matters is how you see yourself.
->
 > Whatever you do, don’t let inertia and complacency keep <br>
 > you from pushing yourself a little bit every day. 🚀
->
-> 
-> Dasvidaniya, don't get any on ya 🤞!
