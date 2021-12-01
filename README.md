@@ -96,9 +96,9 @@
 </table>
 
 >We lead our lives like water flowing down a hill going more or less in one direction <br>
->until we splash into something that forces us to find a new course. <br>
->Water never waits. It changes shapes and flows around things, <br>
->and finds the secret paths no one else has thought about. 🚀 <br>
+>until we splash into something that forces us to find a new course. Water never waits. <br>
+> It changes shapes and flows around things, and finds the secret paths no one else has <br>
+> thought about. 🚀 <br>
 >~ *Arthur Golden*
 >
 > 
