@@ -27,15 +27,19 @@
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>❤️ In love with JAMstack</li>
-<li>   Limitless learner</li>
+<li>📚 Limitless learner</li>
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>   Hobbies: Football - Playing & Watching</li>
+<li>🏃 Hobbies: Football - Playing & Watching</li>
 </ul>
-
-<br>
-
-<h3>LATEST BLOG POSTS</h3>
+    <h5>PRIMARY SKILLSET</h5>
+    <ul>
+        <li>FrontEnd ~ React, Next JS</li>
+        <li>BackEnd ~ Laravel, Node, Django</li>
+        <li>Database ~ MySQL, MongoDB, Firestore</li>
+        <li>Mobile ~ Java, React Native</li>
+    </ul>
+<h5>LATEST BLOG POSTS</h5>
 
 <!-- HASHNODE:START -->
 - [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
@@ -121,6 +125,5 @@
 > ~ *Arthur Golden*
 >
 > Whatever you do, don’t let inertia and complacency keep you from pushing yourself a little bit every day. 🚀
-
 
 
