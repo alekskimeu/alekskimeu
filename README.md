@@ -24,6 +24,7 @@
 <img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
 </td>
 <td>
+<h5>IN A FLASH</h5>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>❤️ In love with JAMstack</li>
