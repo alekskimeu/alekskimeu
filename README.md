@@ -32,6 +32,17 @@
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>   Hobbies: Football - Playing & Watching</li>
 </ul>
+
+<hr>
+
+> We lead our lives like water flowing down a hill going more or less in one direction <br>
+> until we splash into something that forces us to find a new course. Water never waits. <br>
+> It changes shapes and flows around things, and finds the secret paths no one else <br>
+> has thought about. 🚀 <br>
+> ~ *Arthur Golden*
+>
+> Whatever you do, don’t let inertia and complacency keep <br>
+> you from pushing yourself a little bit every day. 🚀
 </td>
 </tr>
 </table>
@@ -106,11 +117,4 @@
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
 
-> We lead our lives like water flowing down a hill going more or less in one direction <br>
-> until we splash into something that forces us to find a new course. Water never waits. <br>
-> It changes shapes and flows around things, and finds the secret paths no one else <br>
-> has thought about. 🚀 <br>
-> ~ *Arthur Golden*
->
-> Whatever you do, don’t let inertia and complacency keep <br>
-> you from pushing yourself a little bit every day. 🚀
+
