@@ -35,8 +35,7 @@
 
 <br>
 
-> Whatever you do, don’t let inertia and complacency keep you from pushing yourself <br>
-> a little bit every day. 🚀
+> Whatever you do, don’t let inertia and complacency keep you from pushing yourself a little bit every day. 🚀
 </td>
 </tr>
 </table>
@@ -112,7 +111,12 @@
 </td>
 <td>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
+> We lead our lives like water flowing down a hill going more or less in one
+> direction until we splash into something that forces us to find a new course.
+> Water never waits. It changes shapes and flows around things, and finds the secret
+> paths no one else has thought about. 🚀 
+> ~ *Arthur Golden*
+>
 
 </td>
 </tr>
@@ -123,12 +127,8 @@
 <tr>
 <td>
 
-> We lead our lives like water flowing down a hill going more or less in one
-> direction until we splash into something that forces us to find a new course.
-> Water never waits. It changes shapes and flows around things, and finds the secret
-> paths no one else has thought about. 🚀 
-> ~ *Arthur Golden*
->
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
+
 </td>
 <td>
 
