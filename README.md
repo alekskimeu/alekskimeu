@@ -12,26 +12,26 @@
 
 <br>
 
-<table align="center">
+<table>
 <tr>
 <thead>
+<th><h3 align="left">DEV CARD</h3></th>
 <th><h3 align="left">ABOUT ME</h3></th>
-<th><h3 align="left">Dev Card</h3></th>
 </thead>
 </tr>
 <tr>
 <td>
+<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="300" alt="Alex Kimeu's Dev Card"/>
+</td>
+<td>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>❤️ In love with JAMstack</li>
+<li>   Limitless learner</li>
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>💻 Sometimes I code. All the time I learn.</li>
+<li>   Hobbies: Football - Playing & Watching</li>
 </ul>
-</td>
-<td>
-<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="300" alt="Alex Kimeu's Dev Card"/>
-
 </td>
 </tr>
 </table>
