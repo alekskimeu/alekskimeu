@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td>
-<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
+<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="300" alt="Alex Kimeu's Dev Card"/>
 </td>
 <td>
 <ul>    
