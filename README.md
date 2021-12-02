@@ -38,7 +38,7 @@
         <li>FrontEnd ~ React, Next JS</li>
         <li>BackEnd ~ Laravel, Node, Django</li>
         <li>Database ~ MySQL, MongoDB, Firestore</li>
-        <li>Mobile ~ Java, React Native</li>
+        <li>Operating System ~ Ubuntu, Windows</li>
     </ul>
 <h5>LATEST BLOG POSTS</h5>
 
