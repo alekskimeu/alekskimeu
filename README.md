@@ -32,7 +32,7 @@
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>🏃 Hobbies: Football - Playing & Watching</li>
-<li> Sometimes I code. All the time I learn.</li>
+<li>💻 Sometimes I code. All the time I learn.</li>
 </ul>
     <h5>PRIMARY SKILLSET</h5>
     <ul>
