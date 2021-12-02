@@ -63,7 +63,7 @@
 
 <br>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alekskimeu/alekskimeu/blob/master/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/></a>
+<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
 
 <br>
 
