@@ -35,7 +35,13 @@
 
 <br>
 
-> Whatever you do, don’t let inertia and complacency keep you from pushing yourself a little bit every day. 🚀
+<h3>LATEST BLOG POSTS</h3>
+
+<!-- HASHNODE:START -->
+- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
+- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
+- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
+<!-- HASHNODE:END -->
 </td>
 </tr>
 </table>
@@ -94,48 +100,27 @@
 
 <table align="center">
 <tr>
-<thead>
-<th>LATEST BLOG POSTS</th>
-<th>TWEETS</th>
-</thead>
-</tr>
-<tr>
 <td>
 
-<!-- HASHNODE:START -->
-- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
-- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
-- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
-<!-- HASHNODE:END -->
-
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
 </td>
 <td>
 
-> We lead our lives like water flowing down a hill going more or less in one
-> direction until we splash into something that forces us to find a new course.
-> Water never waits. It changes shapes and flows around things, and finds the secret
-> paths no one else has thought about. 🚀 
-> ~ *Arthur Golden*
->
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
 
 </td>
 </tr>
 </table>
 
 <br>
-<table align="center">
-<tr>
-<td>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
+> We lead our lives like water flowing down a hill going more or less in one
+> direction until we splash into something that forces us to find a new course.
+> Water never waits. It changes shapes and flows around things, and finds the secret
+> paths no one else has thought about. 🚀
+> ~ *Arthur Golden*
+>
+> Whatever you do, don’t let inertia and complacency keep you from pushing yourself a little bit every day. 🚀
 
-</td>
-<td>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
-</td>
-</tr>
-
-</table>
 
 
