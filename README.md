@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td>
-<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="500" alt="Alex Kimeu's Dev Card"/>
+<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
 </td>
 <td>
 <ul>    
@@ -35,12 +35,6 @@
 
 <br>
 
-> We lead our lives like water flowing down a hill going more or less in one
-> direction until we splash into something that forces us to find a new course.
-> Water never waits. It changes shapes and flows around things, and finds the secret
-> paths no one else has thought about. 🚀 
-> ~ *Arthur Golden*
->
 > Whatever you do, don’t let inertia and complacency keep you from pushing yourself <br>
 > a little bit every day. 🚀
 </td>
@@ -127,8 +121,19 @@
 <br>
 <table align="center">
 <tr>
+<td>
+
+> We lead our lives like water flowing down a hill going more or less in one
+> direction until we splash into something that forces us to find a new course.
+> Water never waits. It changes shapes and flows around things, and finds the secret
+> paths no one else has thought about. 🚀 
+> ~ *Arthur Golden*
+>
+</td>
+<td>
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
+</td>
 </tr>
 
 </table>
