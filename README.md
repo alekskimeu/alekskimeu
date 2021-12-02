@@ -119,14 +119,3 @@
 </tr>
 </table>
 
-<br>
-
-> We lead our lives like water flowing down a hill going more or less in one
-> direction until we splash into something that forces us to find a new course.
-> Water never waits. It changes shapes and flows around things, and finds the secret
-> paths no one else has thought about. 🚀
-> ~ *Arthur Golden*
->
-> Whatever you do, don’t let inertia and complacency keep you from pushing yourself a little bit every day. 🚀
-
-
