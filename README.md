@@ -16,7 +16,7 @@
 <tr>
 <thead>
 <th><h3 align="left">ABOUT ME</h3></th>
-<th><h3 align="left">LATEST BLOG POSTS</h3></th>
+<th><h3 align="left">Dev Card</h3></th>
 </thead>
 </tr>
 <tr>
@@ -30,12 +30,7 @@
 </ul>
 </td>
 <td>
-
-<!-- HASHNODE:START -->
-- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
-- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
-- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
-<!-- HASHNODE:END -->
+<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="300" alt="Alex Kimeu's Dev Card"/>
 
 </td>
 </tr>
@@ -62,8 +57,6 @@
 </p>
 
 <br>
-
-<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
 
 <br>
 
@@ -104,6 +97,14 @@
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
 </td>
 </table>
+
+<br>
+
+<!-- HASHNODE:START -->
+- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
+- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
+- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
+<!-- HASHNODE:END -->
 
 > We lead our lives like water flowing down a hill going more or less in one direction <br>
 > until we splash into something that forces us to find a new course. Water never waits. <br>
