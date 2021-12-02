@@ -50,6 +50,7 @@
 </td>
 </tr>
 </table>
+<br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
