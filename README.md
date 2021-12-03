@@ -15,7 +15,7 @@
 <table>
 <tr>
 <thead>
-<th><h3 align="left">DAILY dev CARD</h3></th>
+<th><h3 align="left">DAILY DEV CARD</h3></th>
 <th><h3 align="left">ABOUT ME</h3></th>
 </thead>
 </tr>
