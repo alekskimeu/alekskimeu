@@ -36,7 +36,7 @@
 </ul>
     <h5>PRIMARY SKILLSET</h5>
     <ul>
-        <li>Frontend ~ React, Next JS</li>
+        <li>Frontend ~ React, Next JS, Tailwind CSS</li>
         <li>Backend ~ Laravel, Node, Django</li>
         <li>Database ~ MySQL, MongoDB, Firestore</li>
         <li>Operating System ~ Ubuntu, Windows</li>
