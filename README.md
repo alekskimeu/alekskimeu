@@ -1,4 +1,4 @@
-<h1 align="center">HELLO! WELCOME TO MY GITHUB PROFILE 👋</h1>
+<h1 align="center">HEY, WHAT'S UP! 👋</h1>
 <p align="center">
 <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQGAd2DB2ZVtRg/profile-displaybackgroundimage-shrink_200_800/0/1636389878253?e=1643241600&v=beta&t=bxprU5H0r_93fME9qF25-WdUfp5GYE45UIubLA7gAdc">
 </p>
@@ -31,7 +31,7 @@
 <li>📚 Limitless learner</li>
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>🏃 Hobbies: Football - Playing & Watching</li>
+<li>⚽ Hobbies: Football - Playing & Watching</li>
 <li>💻 Sometimes I code. All the time I learn.</li>
 </ul>
     <h5>PRIMARY SKILLSET</h5>
