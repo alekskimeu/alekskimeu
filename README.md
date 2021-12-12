@@ -1,8 +1,5 @@
 <h1 align="center">HEY, WHAT'S UP! 👋</h1>
 <p align="center">
-<!-- <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQGAd2DB2ZVtRg/profile-displaybackgroundimage-shrink_200_800/0/1636389878253?e=1643241600&v=beta&t=bxprU5H0r_93fME9qF25-WdUfp5GYE45UIubLA7gAdc"> -->
-</p>
-<p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/alekskimeu"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
