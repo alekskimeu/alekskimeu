@@ -1,4 +1,5 @@
-<h1 align="center">HEY, WHAT'S UP! 👋</h1>
+<h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
+<p align="center"><img src="https://twitter.com/alekskimeu/header_photo" alt="Header image" /></p>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -12,14 +13,12 @@
 <table>
 <tr>
 <thead>
-<th><h3 align="left">DAILY DEV CARD</h3></th>
 <th><h3 align="left">ABOUT ME</h3></th>
+<th><h3 align="left">ONLINE</h3></th>
 </thead>
 </tr>
 <tr>
-<td>
-<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>
-</td>
+
 <td>
 <h5>IN A FLASH</h5>
 <ul>    
@@ -38,6 +37,12 @@
         <li>Database ~ MySQL, MongoDB, Firestore</li>
         <li>Operating System ~ Ubuntu, Windows</li>
     </ul>
+
+</td>
+
+<td>
+
+[//]: # (<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>)
 <h5>LATEST BLOG POSTS</h5>
 
 <!-- HASHNODE:START -->
@@ -45,7 +50,12 @@
 - [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
 - [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
 <!-- HASHNODE:END -->
+<br>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
+
 </td>
+
 </tr>
 </table>
 <br>
@@ -107,10 +117,6 @@
 <td>
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
-</td>
-<td>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
 
 </td>
 </tr>
