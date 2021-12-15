@@ -11,12 +11,6 @@
 
 <table>
 <tr>
-<thead>
-<th><h3 align="left">ABOUT ME</h3></th>
-<th><h3 align="left">ONLINE</h3></th>
-</thead>
-</tr>
-<tr>
 
 <td>
 <h5>IN A FLASH</h5>
