@@ -104,7 +104,7 @@
 
 <br>
     
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td>
 
@@ -112,5 +112,5 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
