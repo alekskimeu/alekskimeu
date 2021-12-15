@@ -1,5 +1,4 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
-<p align="center"><img src="https://twitter.com/alekskimeu/header_photo" alt="Header image" /></p>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -116,7 +115,7 @@
 <tr>
 <td>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=600&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pynam5zumb7oi9d117qoftrzb&width=700&unique=true)](https://open.spotify.com/user/pynam5zumb7oi9d117qoftrzb)
 
 </td>
 </tr>
