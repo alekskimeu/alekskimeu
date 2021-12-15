@@ -13,7 +13,7 @@
 <tr>
 
 <td>
-<h5>IN A FLASH</h5>
+<h3>IN A FLASH</h3>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>💻 One line of code at a time</li>
@@ -23,7 +23,7 @@
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
-    <h5>PRIMARY SKILLSET</h5>
+    <h3>PRIMARY SKILLSET</h3>
     <ul>
         <li>Frontend ~ React, Next JS, Tailwind CSS</li>
         <li>Backend ~ Laravel, Node, Django</li>
