@@ -16,7 +16,6 @@
 <h4>IN A FLASH</h4>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
-<li>💻 One line of code at a time</li>
 <li>❤️ In love with JAMstack</li>
 <li>📚 Limitless learner</li>
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
