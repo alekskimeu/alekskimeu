@@ -13,7 +13,7 @@
 <tr>
 
 <td>
-<h3>IN A FLASH</h3>
+<h4>IN A FLASH</h4>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>💻 One line of code at a time</li>
@@ -23,7 +23,7 @@
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
-    <h3>PRIMARY SKILLSET</h3>
+    <h4>PRIMARY SKILLSET</h4>
     <ul>
         <li>Frontend ~ React, Next JS, Tailwind CSS</li>
         <li>Backend ~ Laravel, Node, Django</li>
@@ -36,7 +36,7 @@
 <td>
 
 [//]: # (<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>)
-<h5>LATEST BLOG POSTS</h5>
+<h4>LATEST BLOG POSTS</h4>
 
 <!-- HASHNODE:START -->
 - [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
