@@ -1,6 +1,6 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
-<img src="./images/header.png" alt="Header image" />
+<img src="https://zawadiz.com:2083/cpsess7004082114/viewer/home%2fzawadiz%2fpublic_html%2fassets%2fimages/header.png" alt="Header image" />
 </p>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
