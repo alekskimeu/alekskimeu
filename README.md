@@ -15,7 +15,7 @@ Hi! I'm a Software Developer based in Nairobi, Kenya. I am a limitless learner. 
 <p>
 It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
 </p>
-<h4>IN A FLASH</h4>
+<h4>ABOUT ME</h4>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
 <li>❤️ In love with JAMstack</li>
