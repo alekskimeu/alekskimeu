@@ -14,15 +14,15 @@
 
 
 
-<p>
+<h5></h5>
 Hi! I'm a Software Developer based in Nairobi, Kenya 🇰🇪. I enjoy building stuff that solve problems with code. 
-</p>
+</h5>
 
-<p>I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT.</p>
+<h5>I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT.</h5>
 
-<p>
+<h5>
 It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
-</p>
+</h5>
 
 <table>
 <tr>
@@ -36,14 +36,6 @@ It's amazing that we live in an age where we can make many possibilities with te
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
-    <h4>PRIMARY SKILLSET</h4>
-    <ul>
-        <li>Frontend ~ React, Next JS, CSS3, Tailwind CSS</li>
-        <li>Backend ~ Laravel, Node, Django</li>
-        <li>Database ~ MySQL, MongoDB, Firestore</li>
-        <li>Operating System ~ Ubuntu, Windows</li>
-    </ul>
-
 </td>
 </tr>
 </table>
