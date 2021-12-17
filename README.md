@@ -18,9 +18,7 @@ Hi! I'm a Software Developer based in Nairobi, Kenya 🇰🇪. I enjoy building 
 It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
 </p>
 
-<table>
-<tr>
-<td>
+<br>
 <h4>IN A FLASH</h4>
 <ul>    
 <li>💼 Full Stack Web Developer</li>
@@ -30,9 +28,6 @@ It's amazing that we live in an age where we can make many possibilities with te
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
-</td>
-</tr>
-</table>
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
