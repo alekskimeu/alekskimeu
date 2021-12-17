@@ -12,9 +12,20 @@
 
 <br>
 
+
+
+<p>
+Hi! I'm a Software Developer based in Nairobi, Kenya 🇰🇪. I enjoy building stuff that solve problems with code. 
+</p>
+
+<p>I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT.</p>
+
+<p>
+It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
+</p>
+
 <table>
 <tr>
-
 <td>
 <h4>IN A FLASH</h4>
 <ul>    
@@ -34,23 +45,6 @@
     </ul>
 
 </td>
-
-<td>
-
-[//]: # (<img src="https://github.com/alekskimeu/alekskimeu/blob/main/devcard.svg" width="400" alt="Alex Kimeu's Dev Card"/>)
-<h4>LATEST BLOG POSTS</h4>
-
-<!-- HASHNODE:START -->
-- [Youtube Channels To Learn Programming](https://byte.hashnode.dev/youtube-channels-to-learn-programming)
-- [My Experience With FreeCodeCamp](https://byte.hashnode.dev/my-experience-with-freecodecamp)
-- [JavaScript Array Methods](https://byte.hashnode.dev/javascript-array-methods)
-<!-- HASHNODE:END -->
-<br>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekskimeu&layout=wide&show_retweet=off&show_reply=off&theme=radical)](https://twitter.com/alekskimeu)
-
-</td>
-
 </tr>
 </table>
 <br>
