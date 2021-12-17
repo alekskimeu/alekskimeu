@@ -10,7 +10,7 @@
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 <br>
-<p>
+<p width="400">
 Hi! I'm a Software Developer based in Nairobi, Kenya 🇰🇪. I enjoy building stuff that solve problems with code. 
 </p>
 <p>I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT.</p>
