@@ -11,7 +11,7 @@
 </p>
 <br>
 <p>
-Hi! I'm a Software Developer based in Nairobi, Kenya 🇰🇪. I enjoy building stuff that solve problems with code. I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT😉.</p>
+Hi! I'm a Software Developer based in Nairobi, Kenya. I am a limitless learner. I enjoy learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT😉.</p>
 <p>
 It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
 </p>
