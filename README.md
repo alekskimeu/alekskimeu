@@ -17,7 +17,7 @@ It's amazing that we live in an age where we can make many possibilities with te
 </p>
 <h4>ABOUT ME</h4>
 <ul>    
-<li>💼 Full Stack Software Developer</li>
+<li>💼 Software Developer</li>
 <li>❤️ In love with JAMstack</li>
 <li>📚 Limitless learner</li>
 <li>✍️ Currently learning: Next JS & Tailwind CSS</li>
