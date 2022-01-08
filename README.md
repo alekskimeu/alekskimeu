@@ -11,11 +11,11 @@
 </p>
 <br>
 <p>
-Software Developer based in Nairobi, Kenya. A limitless learner who enjoys learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT😉.</p>
+I'm a Software Developer based in Nairobi, Kenya. A limitless learner who enjoys learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT😉.</p>
 <p>
 It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
 </p>
-<h4>ABOUT ME</h4>
+<h4>IN A FLASH</h4>
 <ul>    
 <li>💼 Software Developer</li>
 <li>❤️ In love with JAMstack</li>
