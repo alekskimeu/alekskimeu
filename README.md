@@ -14,7 +14,7 @@
 <li>💼 Software Developer</li>
 <li>❤️ In love with JAMstack</li>
 <li>📚 Limitless learner</li>
-<li>✍️ Currently learning: Next JS, Tailwind CSS & React Native</li>
+<li>✍️ Currently learning React Native</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
