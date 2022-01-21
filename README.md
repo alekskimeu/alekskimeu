@@ -20,7 +20,7 @@
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 <br>
-<p align="right"><i>Stuck in an infinite { for } loop.</i></p>
+<p align="right"><i>```Stuck in an infinite { for } loop.```</i></p>
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
