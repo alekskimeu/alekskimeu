@@ -1,6 +1,6 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
-<img align="center" alt="GIF" src="https://github.com/alekskimeu/alekskimeu/blob/master/code.gif?raw=true" width="400" height="200" />
+<img align="center" alt="GIF" src="./images/code.gif" width="400" height="200" />
 
 </p>
 <p align="center">
