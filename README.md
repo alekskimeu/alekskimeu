@@ -10,6 +10,7 @@
 </p>
 <br>
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
+<p align="right"><i>Stuck in an infinite { for } loop.</i></p>
 <h4 align="left">BIO</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
