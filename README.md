@@ -1,6 +1,8 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
-<img src="./images/header.jpg" alt="Header image" />
+<video width="400" height="200" controls>
+  <source src="./images/code.gif" type="video/mp4">
+</video>
 </p>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
