@@ -12,12 +12,12 @@
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
 <h4 align="left">BIO</h4>
 <ul align="left">    
-<li><h6 style="font-family: 'Dosis', sans-serif;">💼 Software Developer</h6></li>
-<li><h6 style="font-family: 'Dosis', sans-serif;">❤️ In love with JAMstack</h6></li>
-<li><h6 style="font-family: 'Dosis', sans-serif;">📚 Limitless learner</h6></li>
-<li><h6 style="font-family: 'Dosis', sans-serif;">✍️ Currently learning React Native</h6></li>
-<li><h6 style="font-family: 'Dosis', sans-serif;">🤞 Interested in Web3.0 & Blockchain</h6></li>
-<li><h6 style="font-family: 'Dosis', sans-serif;">⚽ Hobbies: Football - Playing & Watching</h6></li>
+<li>💼 Software Developer</li>
+<li>❤️ In love with JAMstack</li>
+<li>📚 Limitless learner</li>
+<li>✍️ Currently learning React Native</li>
+<li>🤞 Interested in Web3.0 & Blockchain</li>
+<li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 
 <br>
