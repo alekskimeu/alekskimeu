@@ -21,9 +21,7 @@
 </ul>
 <br>
 <p align="right"><i>
-```
- Stuck in an infinite { for } loop. 
-```
+ Stuck in an infinite { for } loop.
 </i></p>
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
