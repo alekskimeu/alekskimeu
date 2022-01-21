@@ -1,6 +1,6 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
-<img align="center" alt="GIF" src="./images/code.gif" width="400" height="200" />
+<img align="center" alt="GIF" src="./images/code.gif" width="600" height="300" />
 
 </p>
 <p align="center">
