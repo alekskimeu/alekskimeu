@@ -11,11 +11,6 @@
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 <br>
-<p>
-I'm a Software Developer based in Nairobi, Kenya. A limitless learner who enjoys learning new technologies to keep up with the dynamic IT industry. There's always something new to learn, especially in IT😉.</p>
-<p>
-It's amazing that we live in an age where we can make many possibilities with technology and I am ready to collaborate with other developers in my career to develop solutions geared to help organizations increase productivity and accelerate business performance.
-</p>
 <h4>BIO</h4>
 <ul>    
 <li>💼 Software Developer</li>
