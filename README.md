@@ -17,7 +17,7 @@
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 
-<img align="right" alt="GIF" src="./images/code.gif" width="600" height="300" />
+<img align="right" alt="GIF" src="./images/code.gif" width="300" height="200" />
 
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
