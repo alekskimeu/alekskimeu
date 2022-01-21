@@ -8,7 +8,7 @@
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 <br>
-<img align="right" alt="GIF" src="./images/code.gif" width="350" height="200" />
+<img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
 <h4 align="left">BIO</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
