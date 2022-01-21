@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap" rel="stylesheet">
 
 <h1 align="center" style="font-family: 'Dosis', sans-serif;">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
