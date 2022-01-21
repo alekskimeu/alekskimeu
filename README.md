@@ -1,5 +1,6 @@
-<h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
-<!-- <img align="center" alt="Header" src="./images/alex.jpg" width="900" height="200" /> -->
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap" rel="stylesheet">
+
+<h1 align="center" style="font-family: 'Dosis', sans-serif;">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -11,12 +12,12 @@
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
 <h4 align="left">BIO</h4>
 <ul align="left">    
-<li>💼 Software Developer</li>
-<li>❤️ In love with JAMstack</li>
-<li>📚 Limitless learner</li>
-<li>✍️ Currently learning React Native</li>
-<li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>⚽ Hobbies: Football - Playing & Watching</li>
+<li style="font-family: 'Dosis', sans-serif;">💼 Software Developer</li>
+<li style="font-family: 'Dosis', sans-serif;">❤️ In love with JAMstack</li>
+<li style="font-family: 'Dosis', sans-serif;">📚 Limitless learner</li>
+<li style="font-family: 'Dosis', sans-serif;">✍️ Currently learning React Native</li>
+<li style="font-family: 'Dosis', sans-serif;">🤞 Interested in Web3.0 & Blockchain</li>
+<li style="font-family: 'Dosis', sans-serif;">⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 
 <br>
