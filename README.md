@@ -7,6 +7,7 @@
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 <br>
+<img align="right" alt="GIF" src="./images/code.gif" width="300" height="200" />
 <h4 align="left">BIO</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
@@ -16,8 +17,6 @@
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
-
-<img align="right" alt="GIF" src="./images/code.gif" width="300" height="200" />
 
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
