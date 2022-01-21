@@ -1,9 +1,5 @@
 <h1 align="center">HEY, WELCOME TO MY PROFILE👋</h1>
 <p align="center">
-<img align="center" alt="GIF" src="./images/code.gif" width="600" height="300" />
-
-</p>
-<p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/alekskimeu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/alekskimeu"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -11,8 +7,8 @@
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 <br>
-<h4>BIO</h4>
-<ul>    
+<h4 align="left">BIO</h4>
+<ul align="left">    
 <li>💼 Software Developer</li>
 <li>❤️ In love with JAMstack</li>
 <li>📚 Limitless learner</li>
@@ -20,6 +16,9 @@
 <li>🤞 Interested in Web3.0 & Blockchain</li>
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
+
+<img align="right" alt="GIF" src="./images/code.gif" width="600" height="300" />
+
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
