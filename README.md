@@ -24,7 +24,7 @@
 </ul>
 <br>
  > Whatever you do, don't let inertia & complacency keep
- you from pushing yourself a little bit every day.
+ > you from pushing yourself a little bit every day.
 
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
