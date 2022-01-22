@@ -24,7 +24,8 @@
 </ul>
 <br>
 
-> Looking to collaborate in React & Node projects.
+> You can never understand everything. But, you should push > > yourself to understand the system.
+> ~ Ryan Dahl
 
  > Whatever you do, don't let inertia & complacency keep
  > you from pushing yourself a little bit every day.
