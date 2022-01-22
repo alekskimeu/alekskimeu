@@ -11,7 +11,8 @@
 </p>
 <br>
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
-<br /><br />
+<br />
+
 <h4 align="left">BIO</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
@@ -22,10 +23,9 @@
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 <br>
-<p align="left"><i>
  > Whatever you do, don't let inertia & complacency keep
  you from pushing yourself a little bit every day.
-</i></p>
+
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
