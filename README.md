@@ -24,6 +24,8 @@
 </ul>
 <br>
 
+> Looking to collaborate in React & Node projects.
+
  > Whatever you do, don't let inertia & complacency keep
  > you from pushing yourself a little bit every day.
 
