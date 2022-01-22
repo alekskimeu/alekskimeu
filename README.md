@@ -21,8 +21,9 @@
 <li>⚽ Hobbies: Football - Playing & Watching</li>
 </ul>
 <br>
-<p align="right"><i>
- Stuck in an infinite { for } loop.
+<p align="left"><i>
+ Whatever you do, don't let inertia & complacency keep
+ you from pushing yourself a little bit every day.
 </i></p>
 <br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
