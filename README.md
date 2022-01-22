@@ -25,7 +25,6 @@
 <br>
 
 > You can never understand everything. But, you should push > yourself to understand the system.
->
 > ~ Ryan Dahl
 
  > Whatever you do, don't let inertia & complacency keep
