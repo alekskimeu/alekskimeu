@@ -23,7 +23,7 @@
 </ul>
 <br>
 <p align="left"><i>
- Whatever you do, don't let inertia & complacency keep
+ > Whatever you do, don't let inertia & complacency keep
  you from pushing yourself a little bit every day.
 </i></p>
 <br>
