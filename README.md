@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap" rel="stylesheet">
 
-<h1 align="center" style="font-family: 'Dosis', sans-serif;">SUP, ALEX HERE👋</h1>
+<h1 align="center" style="font-family: 'Dosis', sans-serif;">YOH! ALEX HERE👋</h1>
 <br>
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -54,7 +54,7 @@
 
 <br>
 
-<!-- <br>
+<br>
 
 <table align="center" width="100%">
   <tr>
@@ -75,16 +75,16 @@
     </a>
     </td>
   </tr>
-</table> -->
+</table>
 
-<!-- <table align="center">
+<table align="center">
 
 [![Alex' github activity graph](https://activity-graph.herokuapp.com/graph?username=alekskimeu&theme=github)](https://github.com/alekskimeu/github-readme-activity-graph)
-</table> -->
+</table>
 
-<!-- <br> -->
+<br>
     
-<!-- <table align="center">
+<table align="center">
 <tr>
 <td>
 
@@ -92,5 +92,5 @@
 
 </td>
 </tr>
-</table> -->
+</table>
 
