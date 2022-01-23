@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-<table align="center">
+<!-- <table align="center">
 
 [![Alex' github activity graph](https://activity-graph.herokuapp.com/graph?username=alekskimeu&theme=github)](https://github.com/alekskimeu/github-readme-activity-graph)
 </table>
@@ -92,5 +92,5 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
