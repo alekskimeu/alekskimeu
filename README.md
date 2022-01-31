@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<h4 align="left">BIO</h4>
+<h4 align="left">ABOUT ME</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
 <li>❤️ In love with JAMstack</li>
