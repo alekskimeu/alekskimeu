@@ -11,6 +11,8 @@
 </p>
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
 
+<br />
+
 <h4 align="left">ABOUT ME</h4>
 <ul align="left">    
 <li>💼 Software Developer</li>
