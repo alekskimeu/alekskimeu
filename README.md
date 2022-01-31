@@ -9,10 +9,7 @@
 <a href="https://www.linkedin.com/in/alexkimeu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
-<br>
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
-
-<br /><br />
 
 <h4 align="left">ABOUT ME</h4>
 <ul align="left">    
@@ -31,7 +28,6 @@
  > Whatever you do, don't let inertia & complacency keep
  > you from pushing yourself a little bit every day.
 
-<br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -52,8 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
-
-<br>
 
 <br>
 
