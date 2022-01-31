@@ -11,7 +11,8 @@
 </p>
 <br>
 <img align="right" alt="GIF" src="./images/code.gif" width="370" height="220" />
-<br />
+
+<br /><br />
 
 <h4 align="left">BIO</h4>
 <ul align="left">    
