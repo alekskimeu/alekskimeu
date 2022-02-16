@@ -13,14 +13,14 @@
 
 <br />
 
-<p align="left" style="font-size: 2rem;">
+<p align="left" style="font-size: 3em;">
 My name is <b>ALEX KIMEU.</b> I'm a passionate Developer in
 love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">JAMstack</a>
 </p>
-<p align="left" style="font-size: 2rem;">
+<p align="left" style="font-size: 3em;">
 I enjoy learning & creating things with code. I'm interested in Web3 & Blockchain technology.
 </p>
-<p align="left" style="font-size: 2rem;">
+<p align="left" style="font-size: 3em;">
 I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 </p>
 
