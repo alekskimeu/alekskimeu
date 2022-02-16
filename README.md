@@ -13,14 +13,14 @@
 
 <br />
 
-<h4 align="left">ABOUT ME</h4>
+<h4 align="left">My name is Alex Kimeu & I'm:</h4>
 <ul align="left">    
-<li>💼 Software Developer</li>
+<li>💼 A Software Developer</li>
 <li>❤️ In love with JAMstack</li>
-<li>📚 Limitless learner</li>
+<li>📚 A limitless learner</li>
 <li>✍️ Currently learning Next JS, React Native & Inertia</li>
 <li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>⚽ Hobbies: Football - Playing & Watching</li>
+<li>⚽ Enjoy playing & watching football</li>
 </ul>
 <br>
 
