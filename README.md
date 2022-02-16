@@ -14,17 +14,17 @@
 <br />
 
 <h3 align="left">My name is ALEX KIMEU & I'm:</h3>
-<p align="center">
+<p align="left">
 My name is ALEX KIMEU. I'm a passionate Developer in
-love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">>JAMstack</a>
+love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">JAMstack</a>
 </p>
 <br>
-<p align="center">
+<p align="left">
 I enjoy learning & creating things with code. I'm interested in Web3 & Blockchain technology.
 </p>
 <br>
 
-<p align="center">
+<p align="left">
 I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 </p>
 
