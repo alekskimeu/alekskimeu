@@ -13,7 +13,7 @@
 
 <br />
 
-<h4 align="left">My name is Alex Kimeu & I'm:</h4>
+<h3 align="left">My name is ALEX KIMEU & I'm:</h3>
 <ul align="left">    
 <li>💼 A Software Developer</li>
 <li>❤️ In love with JAMstack</li>
