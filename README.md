@@ -14,15 +14,19 @@
 <br />
 
 <h3 align="left">My name is ALEX KIMEU & I'm:</h3>
-<ul align="left">    
-<li>💼 A Software Developer</li>
-<li>❤️ In love with JAMstack</li>
-<li>📚 A limitless learner</li>
-<li>✍️ Currently learning Next JS, React Native & Inertia</li>
-<li>🤞 Interested in Web3.0 & Blockchain</li>
-<li>⚽ Enjoy playing & watching football</li>
-</ul>
+<p align="center">
+My name is ALEX KIMEU. I'm a passionate Developer in
+love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">>JAMstack</a>
+</p>
 <br>
+<p align="center">
+I enjoy learning & creating things with code. I'm interested in Web3 & Blockchain technology.
+</p>
+<br>
+
+<p align="center">
+I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
+</p>
 
 > You can never understand everything. But, you should push  yourself to understand the system.
 > ~ Ryan Dahl
