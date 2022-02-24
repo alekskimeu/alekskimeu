@@ -4,20 +4,22 @@
 
 <br />
 
-> You can never understand everything. But, you should push  yourself to understand the system.
-> ~ Ryan Dahl
-
- > Whatever you do, don't let inertia & complacency keep
- > you from pushing yourself a little bit every day.
-<br>
-
 <p align="left" style="font-size: 3em;">
 My name is <b>ALEX KIMEU.</b> I'm a passionate Developer in
 love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">JAMstack</a>
 I enjoy learning & creating things with code. I'm interested in Web3 & Blockchain technology.
 I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 </p>
-<br>
+
+<br />
+
+> You can never understand everything. But, you should push  yourself to understand the system.
+> ~ Ryan Dahl
+
+ > Whatever you do, don't let inertia & complacency keep
+ > you from pushing yourself a little bit every day.
+ 
+<br />
 
 <p align="center">
 <a href="https://www.facebook.com/alex.kimeu.798"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -27,7 +29,7 @@ I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
-<br>
+<br />
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -49,7 +51,7 @@ I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
 </p>
 
-<br>
+<br />
 
 <table align="center" width="100%">
   <tr>
@@ -77,7 +79,7 @@ I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 [![Alex' github activity graph](https://activity-graph.herokuapp.com/graph?username=alekskimeu&theme=github)](https://github.com/alekskimeu/github-readme-activity-graph)
 </table>
 
-<br>
+<br />
     
 <table align="center">
 <tr>
