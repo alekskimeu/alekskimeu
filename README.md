@@ -10,8 +10,6 @@ love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">JAMsta
 I enjoy learning & creating things with code. I'm interested in Web3 & Blockchain technology.
 I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 </p>
-
-<br>
 <br>
 
 <p align="center">
