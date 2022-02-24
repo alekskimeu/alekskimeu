@@ -4,6 +4,13 @@
 
 <br />
 
+> You can never understand everything. But, you should push  yourself to understand the system.
+> ~ Ryan Dahl
+
+ > Whatever you do, don't let inertia & complacency keep
+ > you from pushing yourself a little bit every day.
+<br>
+
 <p align="left" style="font-size: 3em;">
 My name is <b>ALEX KIMEU.</b> I'm a passionate Developer in
 love with <a href="https://jamstack.org/what-is-jamstack" target="_blank">JAMstack</a>
@@ -20,13 +27,7 @@ I'm currently learning <b>Next JS, React Native and Tailwind CSS.</b>
 <a href="https://byte.hashnode.dev/"><img alt="dev.to" title="My Hahnode Blog" src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
-
-> You can never understand everything. But, you should push  yourself to understand the system.
-> ~ Ryan Dahl
-
- > Whatever you do, don't let inertia & complacency keep
- > you from pushing yourself a little bit every day.
-
+<br>
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
