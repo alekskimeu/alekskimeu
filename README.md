@@ -1,14 +1,12 @@
 <h1 align="center">Hello nerds 👋, I'm Alex</h1>
 
-- 💻 Full Stack Dev in a wild world of dynamic web.
+- 💻 Full Stack Web Developer.
 
 - ❤️ In love with [JAMstack](https://jamstack.org/what-is-jamstack/)
 
 - 📑 Currently learning **Next JS, React Native & Tailwind CSS**
 
-- 👯 Looking to collaborate on **React projects**
-
-- 💬 Ask me about **React, Redux**
+- 👯 Interested in **Web3 & Blockchain**
 
 - 📫 Reach me on: **kimeualeks@gmail.com**
 
