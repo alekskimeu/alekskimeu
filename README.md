@@ -87,14 +87,15 @@ Apart from coding and learning new techs, I enjoy video gaming and playing & wat
 </td>
 <td>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekskimeu&theme=merko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&theme=merko&hide_title=true)](https://github.com/alekskimeu/github-readme-stats)
 
 </td>
+
 </tr>
 <tr>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&theme=merko&hide_title=true)](https://github.com/alekskimeu/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekskimeu&theme=merko)](https://git.io/streak-stats)
 
 </td>
 <td>
