@@ -100,7 +100,7 @@ Apart from coding and learning new techs, I enjoy video gaming and playing & wat
 </td>
 <td>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekskimeu&layout=compact&theme=merko)](https://github.com/alekskimeu/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekskimeu&layout=compact&theme=merko&hide=XML,Other,Groovy,Git%20Config,Gitignore%20file)](https://github.com/alekskimeu/github-readme-stats)
 
 </td>
 </tr>
