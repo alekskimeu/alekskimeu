@@ -18,7 +18,7 @@ Apart from coding and learning new techs, I enjoy video gaming and playing & wat
 </p>
 
 
-<h4 align="center">Languages and Tools</h4>
+<h3 align="center">Languages and Tools</h3>
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ Apart from coding and learning new techs, I enjoy video gaming and playing & wat
 </tr>
 </table>
 
-<h4 align="center">Coding Stats</h4>
+<h3 align="center">Coding Stats</h3>
 
 <table>
 <tr>
