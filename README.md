@@ -1,4 +1,4 @@
-<h1 align="center">Hello nerds 👋, I'm Alex</h1>
+<h1 align="center">Hello nerds 👋</h1>
 <div align="center">
   <a href="https://www.alex-kimeu.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&down_message=offline&up_color=red&up_message=online&url=https%3A%2F%2Falex-kimeu.com" alt="Portfolio Badge"/>
@@ -12,9 +12,10 @@
 </div>
 <br>
 <p>
-I'm a Software Engineer based in Nairobi - Kenya. I enjoy creating stuff with code and learning new techs to keep up with the dynamic IT industry. There's always something new to learn, especially in IT. <br>
-I write about tech stuff on <a href="https://alex-kimeu.com/blog" target="_blank"><b>my blog</b></a> & general life stuff on <a href="#" target="_blank"><b>BDADG blog</b></a> <br> 
-Apart from coding and learning new techs, I enjoy video gaming and playing & watching football.
+I'm ALEX KIMEU, a Software Developer in love with <a href="https://jamstack.org/what-is-jamstack/">JAMstack</a>. 
+I enjoy learning & building stuff with code. Apart from coding and learning new techs, I write about tech on 
+my <a href="https://alex-kimeu.com/blog" target="_blank">blog</a> & about general life stuff on 
+<a href="https://bdadg.com/blog" target="_blank">BDADG</a>.
 </p>
 
 
