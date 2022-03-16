@@ -1,6 +1,18 @@
 <h1 align="center">Hello nerds 👋, I'm Alex</h1>
 
-- 💻 Full Stack Web Developer.
+<div align="center">
+  <a href="https://www.alex-kimeu.com/">
+    <img src="https://img.shields.io/website?style=for-the-badge&down_message=offline&up_color=red&up_message=online&url=https%3A%2F%2Falex-kimeu.com" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexkimeu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/alekskimeu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!-- - 💻 Full Stack Web Developer
 
 - ❤️ In love with [JAMstack](https://jamstack.org/what-is-jamstack/)
 
@@ -8,12 +20,99 @@
 
 - 👯 Interested in **Web3 & Blockchain**
 
-- 📫 Reach me on: **kimeualeks@gmail.com**
+- 📫 Reach me on: **kimeualeks@gmail.com**  -->
 
-- ⚽ Fun fact: **I play football**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<h4 align="center">Languages and Tools</h4>
+
+<table>
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Database</th>
+<th>Mobile</th>
+</tr>
+
+<tr>
+<td>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="tailwind css" width="50" height="50"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+</a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
+</a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> 
+</a> 
+</td>
+
+<td>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+</a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> 
+</a> 
+</td>
+
+<td>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+</a> 
+</td>
+
+<td>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
+</a> 
+<a href="https://openjdk.java.net/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="50" height="50"/> 
+</a> 
+</td>
+</tr>
+</table>
+
+<h4 align="center">Coding Stats</h4>
+
+<table>
+<tr>
+<td>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alekskimeu&count_private=true&show_icons=true&theme=merko&hide_title=true)](https://github.com/alekskimeu/github-readme-stats)
+
+</td>
+<td>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekskimeu&theme=merko)](https://git.io/streak-stats)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekskimeu&layout=compact&theme=merko&hide_title=true)](https://github.com/alekskimeu/github-readme-stats)
+
+</td>
+<td>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekskimeu&layout=compact&theme=merko)](https://github.com/alekskimeu/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 > Whatever you do, don't let inertia and complacency keep you from pushing yourself a little bit every day.
+
+> 
 
