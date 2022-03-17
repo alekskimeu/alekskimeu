@@ -21,16 +21,7 @@ my <a href="https://alex-kimeu.com/blog" target="_blank">blog</a> & about genera
 
 <h3 align="center">Languages and Tools</h3>
 
-<table>
-<tr>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Database</th>
-<th>Mobile</th>
-</tr>
-
-<tr>
-<td>
+<p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="tailwind css" width="50" height="50"/> 
 </a> 
@@ -46,37 +37,28 @@ my <a href="https://alex-kimeu.com/blog" target="_blank">blog</a> & about genera
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> 
 </a> 
-</td>
 
-<td>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> 
-</a> 
-</td>
+</a>
 
-<td>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </a> 
-</td>
 
-<td>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
 </a> 
 <a href="https://openjdk.java.net/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="50" height="50"/> 
 </a> 
-</td>
-</tr>
-</table>
-
+</p>
 <h3 align="center">Coding Stats</h3>
 
 <table>
