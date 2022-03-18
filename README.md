@@ -8,7 +8,6 @@ target="_blank">blog</a> & about general life stuff on <a href="https://bdadg.co
 <br>
 </p>
 
-<h5 align="center">Get in touch</h5>
 <div align="center">
   <a href="https://www.alex-kimeu.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&down_message=offline&up_color=red&up_message=online&url=https%3A%2F%2Falex-kimeu.com" alt="Portfolio Badge"/>
@@ -22,7 +21,7 @@ target="_blank">blog</a> & about general life stuff on <a href="https://bdadg.co
 </div>
 
 
-<h4 align="center">Languages and Tools</h4>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
@@ -62,7 +61,7 @@ target="_blank">blog</a> & about general life stuff on <a href="https://bdadg.co
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="50" height="50"/> 
 </a> 
 </p>
-<h4 align="center">Coding Stats</h4>
+<h3 align="center">Coding Stats</h3>
 
 <table>
 <tr>
