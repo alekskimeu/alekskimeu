@@ -1,4 +1,14 @@
 <h1 align="center">Hello nerds 👋</h1>
+
+<br>
+<p>
+I'm ALEX KIMEU, a Software Developer specializing in Frontend development. I enjoy transforming designs into actual products.
+Apart from coding and learning new techs, I write about tech in my blog <a href="https://alex-kimeu.com/blog" 
+target="_blank">blog</a> & about general life stuff on <a href="https://bdadg.com/blog" target="_blank">BDADG</a>.
+<br>
+</p>
+
+<h5 align="center">Get in touch</h5>
 <div align="center">
   <a href="https://www.alex-kimeu.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&down_message=offline&up_color=red&up_message=online&url=https%3A%2F%2Falex-kimeu.com" alt="Portfolio Badge"/>
@@ -10,16 +20,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
-<p>
-I'm ALEX KIMEU, a Software Developer in love with <a href="https://jamstack.org/what-is-jamstack/">JAMstack</a>. 
-I enjoy learning & building stuff with code. Apart from coding and learning new techs, I write about tech on 
-my <a href="https://alex-kimeu.com/blog" target="_blank">blog</a> & about general life stuff on 
-<a href="https://bdadg.com/blog" target="_blank">BDADG</a>.
-</p>
 
 
-<h3 align="center">Languages and Tools</h3>
+<h4 align="center">Languages and Tools</h4>
 
 <p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
@@ -59,7 +62,7 @@ my <a href="https://alex-kimeu.com/blog" target="_blank">blog</a> & about genera
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="50" height="50"/> 
 </a> 
 </p>
-<h3 align="center">Coding Stats</h3>
+<h4 align="center">Coding Stats</h4>
 
 <table>
 <tr>
