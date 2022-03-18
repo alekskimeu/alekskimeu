@@ -2,7 +2,8 @@
 
 <br>
 <p>
-I'm ALEX KIMEU, a Software Developer specializing in Frontend development. I enjoy transforming designs into actual products.
+I'm ALEX KIMEU, a passionate Software Developer with 3+ years of progressive experience
+in creating impactful solutions with technology.
 Apart from coding and learning new techs, I write about tech in my blog <a href="https://alex-kimeu.com/blog" 
 target="_blank">blog</a> & about general life stuff on <a href="https://bdadg.com/blog" target="_blank">BDADG</a>.
 <br>
