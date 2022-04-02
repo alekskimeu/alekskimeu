@@ -4,11 +4,9 @@
 <p>
 I'm ALEX KIMEU, a passionate Software Developer with 3+ years of progressive experience creating solutions with technology. 
 I am a continuous learner who enjoys learning new technologies to upgrade my development skills and stay up to date with the dynamic tech industry. There's always something new to learn especially in technology.
-
 <br>
 
 It's amazing that we live in an age where we can make many possibilities with technology, and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance and accelerate business processes. 
-
 <br>
 
 Apart from coding and learning new techs, I write about tech in my <a href="https://alex-kimeu.com/blog" 
