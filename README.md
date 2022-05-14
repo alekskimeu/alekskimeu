@@ -99,6 +99,12 @@ target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.co
 
 <br>
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 > Whatever you do, don't let inertia and complacency keep you from pushing yourself a little bit every day.
 
 > 
