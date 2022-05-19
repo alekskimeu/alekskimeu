@@ -2,7 +2,7 @@
 
 <br>
 <p>
-I'm ALEX KIMEU, a dedicated & passionate Software Developer with 2+ years of progressive experience creating solutions with technology. 
+I'm ALEX KIMEU, a dedicated & passionate Software Developer with hands-on experience creating solutions with modern technologies. 
 I am a continuous learner who enjoys learning new technologies to upgrade my development skills and stay up to date with the dynamic tech industry. There's always something new to learn especially in technology.
 <br>
 
