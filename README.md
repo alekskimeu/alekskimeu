@@ -97,10 +97,7 @@ target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.co
 </tr>
 </table>
 
-<br>
-
 <h3>Latest Posts</h3>
-
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Learn A New Skill](https://aleks.hashnode.dev/how-i-learn-a-new-skill)
