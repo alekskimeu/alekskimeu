@@ -103,6 +103,8 @@ target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.co
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Normalize Reading The Docs](https://aleks.hashnode.dev/normalize-reading-the-docs)
+- [HTML Image Lazy Loading](https://aleks.hashnode.dev/html-image-lazy-loading)
 - [How I Learn A New Skill](https://aleks.hashnode.dev/how-i-learn-a-new-skill)
 <!-- BLOG-POST-LIST:END -->
 
