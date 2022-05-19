@@ -99,6 +99,9 @@ target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.co
 
 <br>
 
+<h3>Latest Posts</h3>
+
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
