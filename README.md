@@ -100,7 +100,7 @@ target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.co
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How I Learn A New Skill](https://aleks.hashnode.dev/how-i-learn-a-new-skill)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
