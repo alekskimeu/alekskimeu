@@ -2,16 +2,14 @@
 
 <br>
 <p>
-I'm ALEX KIMEU, a dedicated & passionate Software Developer with hands-on experience creating solutions with modern technologies. 
-I am a continuous learner who enjoys learning new technologies to upgrade my development skills and stay up to date with the dynamic tech industry. There's always something new to learn especially in technology.
-<br>
+My name is <b>ALEX KIMEU</b> & I'm an Experienced <b>Software Developer</b> with hands-on experience building products using modern technologies such as:
 
-It's amazing that we live in an age where we can make many possibilities with technology, and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance and accelerate business processes. 
-<br>
+○ <b>React</b> & <b>Next JS</b> to build beautiful user interfaces
+○ <b>Node/Express</b> to build APIs
+○ <b>MySQL & Mongo DB</b> databases
+○ <b>React Native</b> to build native mobile apps.
 
-Apart from coding and learning new techs, I write about tech in my <a href="https://alex-kimeu.com/blog" 
-target="_blank">BLOG</a> & about general life stuff on <a href="https://bdadg.com/blog" target="_blank">BDADG</a>.
-<br>
+It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance & accelerate business processes.
 </p>
 
 <div align="center">
