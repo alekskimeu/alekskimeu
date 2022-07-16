@@ -25,6 +25,9 @@ It's amazing that we live in an age where we can make many possibilities with te
   <a href="https://medium.com/@alexkimeu">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://aleks.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-blur?style=for-the-badge&logo=hashnode&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 
