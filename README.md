@@ -4,10 +4,10 @@
 <p>
 My name is <b>ALEX KIMEU</b> & I'm a <b>Software Developer</b> with hands-on experience building products using modern technologies such as:
 
-- <b>React</b> and <b>Next JS</b> to build beautiful user interfaces
-- <b>Node/Express</b> to build APIs
-- <b>MySQL</b> and <b>Mongo DB</b> databases
-- <b>React Native</b> to build native mobile apps.
+- <b>Frontend Development:</b> React & Next JS
+- <b>Backend Development:</b> Node/Express & PHP/Laravel
+- <b>Database:</b> MySQL & Mongo DB
+- <b>Mobile:</b> React Native
 
 It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance & accelerate business processes.
 </p>
