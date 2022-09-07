@@ -1,17 +1,5 @@
 <h1 align="center">Hello nerds 👋</h1>
 
-<br>
-<p>
-My name is <b>ALEX KIMEU</b> & I'm a <b>Software Developer</b> with hands-on experience building products using modern technologies such as:
-
-- <b>Frontend Development:</b> React & Next JS
-- <b>Backend Development:</b> Node/Express & PHP/Laravel
-- <b>Database:</b> MySQL & Mongo DB
-- <b>Mobile:</b> React Native
-
-It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance & accelerate business processes.
-</p>
-
 <div align="center">
   <a href="https://www.alex-kimeu.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&down_message=offline&up_color=red&up_message=online&url=https%3A%2F%2Falex-kimeu.com" alt="Portfolio Badge"/>
@@ -30,6 +18,17 @@ It's amazing that we live in an age where we can make many possibilities with te
   </a>
 </div>
 
+<br>
+<p>
+My name is <b>ALEX KIMEU</b> & I'm a <b>Software Developer</b> with hands-on experience building products using modern technologies such as:
+
+- <b>Frontend Development:</b> React & Next JS
+- <b>Backend Development:</b> Node/Express & PHP/Laravel
+- <b>Database:</b> MySQL & Mongo DB
+- <b>Mobile:</b> React Native
+
+It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance & accelerate business processes.
+</p>
 
 <!-- <h3 align="center">Languages and Tools</h3>
 
@@ -72,7 +71,7 @@ It's amazing that we live in an age where we can make many possibilities with te
 </a> 
 </p> -->
 
-<h3 align="center">Coding Stats</h3>
+<!-- <h3 align="center">Coding Stats</h3>
 
 <table>
 <tr>
@@ -100,7 +99,7 @@ It's amazing that we live in an age where we can make many possibilities with te
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <h3>Latest Posts</h3>
 
@@ -113,7 +112,7 @@ It's amazing that we live in an age where we can make many possibilities with te
 
 <br>
 
-> Whatever you do, don't let inertia and complacency keep you from pushing yourself a little bit every day.
+> The world breaks everyone, and afterwards, many are strong at the broken places.
 
 > 
 
