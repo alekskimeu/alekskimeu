@@ -111,6 +111,6 @@ It's amazing that we live in an age where we can make many possibilities with te
 
 <br>
 
-> “We lead our lives like water flowing down a hill, going more or less in one direction until we splash into something that forces us to find a new course.” ~Arthur Golden
+> “We lead our lives like water flowing down a hill, going more or less in one direction until we splash into something that forces us to find a new course.” ~ Arthur Golden
 
 >
