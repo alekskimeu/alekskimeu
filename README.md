@@ -20,11 +20,11 @@
 
 <br>
 <p>
-My name is <b>ALEX KIMEU</b> ... Agile <b>Software Developer</b> with hands-on experience
+My name is <b>ALEX KIMEU</b> ... Agile <b>Software Engineer</b> with hands-on experience
 using modern technologies to develop quality web &
 mobile applications.
 
-It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other developers in my career to develop solutions geared to improve performance & accelerate business processes.
+It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other engineers in my career to develop solutions geared to improve performance & accelerate business processes.
 
 </p>
 
