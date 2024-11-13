@@ -20,11 +20,16 @@
 
 <br>
 <p>
-My name is <b>ALEX KIMEU</b> ... Agile <b>Software Engineer</b> with hands-on experience
-using modern technologies to develop quality web &
-mobile applications.
+My name is <b>ALEX KIMEU</b> ... Agile Software Engineer with hands-on experience building full fledged Software products using modern technologies.
 
-It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other engineers in my career to develop solutions geared to improve performance & accelerate business processes.
+Primary Skill Set: 
+- Backend Engineering (Java/Spring Boot, Go, Node)
+- Frontend Development (React/Next, Astro)
+- Mobile Development (React Native)
+ 
+It's amazing that we live in an age where we can make many possibilities with technology & I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance & accelerate business processes.
+
+People enjoy working with me because I can explain technology to everyone, from staff to executives. I can connect the details with the bigger picture & implement the technologies needed for successful projects.
 
 </p>
 
