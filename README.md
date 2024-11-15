@@ -106,7 +106,10 @@ People enjoy working with me because I can explain technology to everyone, from 
 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Get Back to Basics](https://aleks.hashnode.dev/get-back-to-basics)
+- [Normalize Reading The Docs](https://aleks.hashnode.dev/normalize-reading-the-docs)
+- [HTML Image Lazy Loading](https://aleks.hashnode.dev/html-image-lazy-loading)
+- [How I Learn A New Skill](https://aleks.hashnode.dev/how-i-learn-a-new-skill)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
