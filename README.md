@@ -28,9 +28,6 @@ Primary Skill Set:
 - Mobile Development (React Native)
  
 It's amazing that we live in an age where we can make many possibilities with technology & I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance & accelerate business processes.
-
-People enjoy working with me because I can explain technology to everyone, from staff to executives. I can connect the details with the bigger picture & implement the technologies needed for successful projects.
-
 </p>
 
 <!-- <h3 align="center">Languages and Tools</h3>
